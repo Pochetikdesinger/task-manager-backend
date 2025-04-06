@@ -1,0 +1,13 @@
+# Archivos generados por Maven
+target/
+*.log
+.mvn/
+mvnw
+mvnw.cmd
+
+# Archivos de IDE
+.idea/
+*.iml
+
+# Archivos de configuración local
+application-local.properties
